@@ -17,7 +17,7 @@ const linking: LinkingOptions<RootStackParamList> = {
         screens: {
           TabOne: {
             screens: {
-              TabOneScreen: 'one',
+              MapScreen: 'map',
             },
           },
           TabTwo: {
@@ -27,6 +27,7 @@ const linking: LinkingOptions<RootStackParamList> = {
           },
         },
       },
+      Login: 'login',
       Modal: 'modal',
       NotFound: '*',
     },
