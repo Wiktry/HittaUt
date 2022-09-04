@@ -8,8 +8,8 @@ const postFetch = (url: string, body: object) => (
     method: 'POST',
     headers: {
       Accept: 'application/json',
-      credentials:'include',
-      'Content-Type': 'application/json'
+      credentials: 'include',
+      'Content-Type': 'application/json',
     },
     body: JSON.stringify(body)
   })
