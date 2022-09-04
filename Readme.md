@@ -1,3 +1,9 @@
+# HittaUt
+
+HittaUt är ett projekt anordnat av Svenska Orienterings Förbundet vilket använder en app troligen gjord med Xamarin. Detta projekt är ett försök till att skapa en bättre app med React Native.
+
+Detta projekt ligger för stunden på is.
+
 # How to use API
 
 **Login**
